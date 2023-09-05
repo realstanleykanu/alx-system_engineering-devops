@@ -1,0 +1,2 @@
+#/bin/bash
+ls -l | sort -rk 7 | sort -rk 8
